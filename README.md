@@ -1,1 +1,2 @@
- 
+# What is this repo for?
+> This is my public "about" repository for me (Steve Pederzani) and general GitHub content for general and personal use like social media icons, guide files, minor public content, and more.
